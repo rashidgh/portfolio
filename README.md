@@ -1,3 +1,3 @@
 # portfolio
 
-Demo Link https://1999rkgupta.github.io/resume/
+Demo Link: https://rashidgh.github.io/portfolio/
