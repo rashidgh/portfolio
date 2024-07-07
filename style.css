@@ -70,3 +70,20 @@ section {
 ul {
   list-style-type: square;
 }
+
+.mx-2 {
+  font-weight: 600;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(rgb(91, 225, 248), white, rgb(12, 145, 223));
+  border-radius: 10px;
+}
