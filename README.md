@@ -1,3 +1,3 @@
 # portfolio
 
-Demo Link: https://rashidgh.github.io/portfolio/
+Deployed Link: https://mdrashidportfolio.netlify.app/
