@@ -67,3 +67,8 @@
 .bg-accent-4 {
     background-color: var(--accent-4) !important; 
 }
+@media (max-width:440px) {
+    body{
+        overflow-x: hidden;
+    }
+}
